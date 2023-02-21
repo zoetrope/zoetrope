@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi 👋 I'm zoetrope
 
-<!--
-**zoetrope/zoetrope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://github-readme-stats.vercel.app/api?username=zoetrope&show_icons=true&hide_border=true" />  
 
-Here are some ideas to get you started:
+- Twitter: http://twitter.com/zoetro
+- Zenn.dev: https://zenn.dev/zoetro
+- Speaker Deck: https://speakerdeck.com/zoetrope
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kubernetesカスタムコントローラー関連の記事/登壇
+
+- [つくって学ぶKubebuilder](https://zoetrope.github.io/kubebuilder-training/)
+- [controller-runtimeのロギング機能](https://zenn.dev/zoetro/books/testing-kubernetes-operator)
+- [Kubernetesオペレータのアンチパターン＆ベストプラクティス](https://zenn.dev/zoetro/articles/kubernetes-controller-maintenance)
+- [Tiltでカスタムコントローラーの開発を効率化しよう](https://zenn.dev/zoetro/articles/fba4c77a7fa3fb)
+- [Ginkgo/GomegaによるKubernetes Operatorのテスト手法](https://zenn.dev/zoetro/articles/760346baab7e24)
+- [Kubernetes Admission Webhook Deep Dive](https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive)
+- [Kubernetes カスタムコントローラー楽々メンテナンス](https://speakerdeck.com/zoetrope/kubernetesoperetafalseantipatan-besutopurakuteisu)
+
