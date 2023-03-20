@@ -15,4 +15,4 @@
 - [Ginkgo/GomegaによるKubernetes Operatorのテスト手法](https://zenn.dev/zoetro/articles/760346baab7e24)
 - [Kubernetes Admission Webhook Deep Dive](https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive)
 - [Kubernetes カスタムコントローラー楽々メンテナンス](https://speakerdeck.com/zoetrope/kubernetesoperetafalseantipatan-besutopurakuteisu)
-
+- [Kubernetesコントローラーのパフォーマンスチューニング](https://speakerdeck.com/zoetrope/kuberneteskontororanopahuomansutiyuningu)
